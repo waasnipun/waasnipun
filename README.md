@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋
+### A passionate persuer showing interest in the fields of Computer Science and Machine Learning. A quick learner with a can-do attitude willing to take up challenges and passionate to dig deep into an area of interest. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=brightgreen)
 
