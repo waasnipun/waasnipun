@@ -12,6 +12,9 @@
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waasnipun" alt="waasnipun"/></p> 
 
+<a href="https://github.com/kdsuneraavinash">
+  <img alt="Profile Trophies" align="center" src="https://github-profile-trophy.vercel.app/?username=waasnipun&row=2&column=3" />
+</a>
 
 ## Technologies & Tools
 
