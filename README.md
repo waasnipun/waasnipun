@@ -1,5 +1,13 @@
-## Hi there 👋
-### A passionate persuer showing interest in the fields of Computer Science and Machine Learning. A quick learner with a can-do attitude willing to take up challenges and passionate to dig deep into an area of interest. 
+- 👋 I’m Thishani Wijayaratne.
+- 👀 I’m interested in Software Development, Machine Learning, and Robotics.
+- 📫 Visit my <a href="https://waasnipun.github.io/">portfolio</a> to learn more about me
+- You can reach me at: waasnipun@gmail.com
+
+<!--- 💞️ I’m looking to collaborate on ... --->
+<!---
+thishaniwijayaratne/thishaniwijayaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=brightgreen)
 
