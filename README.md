@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=brightgreen)
 
-<div align="center" width="50">
+<!-- <div align="center" width="50">
   <a href="https://github.com/waasnipun">
     <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=waasnipun&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true" />
   </a>
@@ -16,7 +16,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waasnipun&layout=compact)](https://github.com/waasnipun)
 
 </div>
-
+ -->
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
