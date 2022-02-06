@@ -17,7 +17,7 @@
 
 </div>
  -->
-## Technologies & Tools
+<!-- ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -31,4 +31,4 @@
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 
 [twitter]: https://twitter.com/nipun_waas
-[linkedin]: https://linkedin.com/in/nipun-waas
+[linkedin]: https://linkedin.com/in/nipun-waas -->
