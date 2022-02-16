@@ -4,7 +4,7 @@
 - You can reach me at: waasnipun@gmail.com
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=brightgreen)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=brightgreen) -->
 
 <!-- <div align="center" width="50">
   <a href="https://github.com/waasnipun">
