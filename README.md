@@ -8,7 +8,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=blue)
 
-  <a href="https://github.com/sense-iot/DataStreamPilot"><strong>Explore my portfolio »</strong></a>
+  <!-- <a href="https://waasnipun.github.io"><strong>Explore my portfolio »</strong></a> -->
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waasnipun" alt="waasnipun"/></p> 
   <a href="https://github.com/waasnipun">
