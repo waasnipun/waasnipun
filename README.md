@@ -1,23 +1,22 @@
-- 👋 I’m Nipun Waas.
+<!-- - 👋 I’m Nipun Waas.
 - 👀 I’m interested in Electronics, Machine Learning, and Robotics.
 - 📫 Visit my <a href="https://waasnipun.github.io/">portfolio</a> to learn more about me
-- You can reach me at: waasnipun@gmail.com
+- You can reach me at: waasnipun@gmail.com -->
 
+<div align="center" width="50">
+  <img src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" data-canonical src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" width="250" height="160" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=blue)
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=brightgreen) -->
-
-<!-- <div align="center" width="50">
+  <a href="https://github.com/sense-iot/DataStreamPilot"><strong>Explore the portfolio »</strong></a>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waasnipun" alt="waasnipun"/></p> 
   <a href="https://github.com/waasnipun">
     <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=waasnipun&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true" />
   </a>
-  <br></br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waasnipun" alt="waasnipun"/></p> 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waasnipun&layout=compact)](https://github.com/waasnipun)
-
 </div>
- -->
-<!-- ## Technologies & Tools
+<!--
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
