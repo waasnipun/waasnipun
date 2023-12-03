@@ -1,5 +1,5 @@
 - 👋 I’m Nipun Waas.
-- 👀 I’m interested in Software Development, Machine Learning, and Robotics.
+- 👀 I’m interested in Electronics, Machine Learning, and Robotics.
 - 📫 Visit my <a href="https://waasnipun.github.io/">portfolio</a> to learn more about me
 - You can reach me at: waasnipun@gmail.com
 
