@@ -4,7 +4,7 @@
 - You can reach me at: waasnipun@gmail.com -->
 
 <div align="center" width="50">
-  <img src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" data-canonical src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" width="250" height="160" />
+ <!-- <img src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" data-canonical src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" width="250" height="160" /> -->
   
   ![Profile Views](https://komarev.com/ghpvc/?username=waasnipun&color=blue)
 
