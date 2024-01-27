@@ -1,8 +1,3 @@
-- 👋 I’m Nipun Waas.
-- 👀 I’m interested in Digital Electronics, Embedded Systems, and Machine Learning.
-- 📫 Visit my <a href="https://waasnipun.github.io/">portfolio</a> to learn more about me
-- You can reach me at: waasnipun@gmail.com
-
 <div align="center" width="50">
  <!-- <img src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" data-canonical src="https://github.com/kavindaperera/kavindaperera/blob/main/images/dev-working_rounded.gif" width="250" height="160" /> -->
   
